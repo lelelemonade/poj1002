@@ -1,0 +1,3 @@
+/home/cacacarrot/CLionProjects/number-transform/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cacacarrot/CLionProjects/number-transform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cacacarrot/CLionProjects/number-transform/cmake-build-debug/CMakeFiles/number_transform.dir
